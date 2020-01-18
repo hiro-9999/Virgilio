@@ -1,3 +1,6 @@
+## 关于计算机科学的50个误解
+https://www.ruanyifeng.com/blog/2019/11/50-cs-falsehoods.html
+
 ![](https://img.shields.io/github/forks/virgili0/Virgilio.svg?style=plastic)
 ![](https://img.shields.io/github/issues/virgili0/Virgilio.svg?style=plastic)
 ![](https://img.shields.io/github/stars/virgili0/Virgilio.svg?style=plastic)
